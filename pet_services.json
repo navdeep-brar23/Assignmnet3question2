@@ -1,0 +1,49 @@
+{
+  "groomingServices": [
+    {
+      "name": "Muddy Paws",
+      "link": "https://www.yelp.ca/biz/muddy-paws-pet-grooming-red-deer"
+    },
+    {
+      "name": "Petland",
+      "link": "https://www.yelp.ca/biz/petland-red-deer-3"
+    },
+    {
+      "name": "Klassic Kennels",
+      "link": "https://www.yelp.ca/biz/klassic-kennels-red-deer"
+    },
+    {
+      "name": "Fetch Haus",
+      "link": "https://www.yelp.ca/biz/fetch-haus-red-deer"
+    },
+    {
+      "name": "Doggy Doos & Kitties Too",
+      "link": "https://www.yelp.ca/biz/doggy-doos-and-kitties-too-red-deer"
+    },
+    {
+      "name": "Pet Valu",
+      "link": "https://www.yelp.ca/biz/pet-valu-red-deer-2"
+    },
+    {
+      "name": "Pet Smart",
+      "link": "https://www.yelp.ca/biz/petsmart-red-deer"
+    },
+    {
+      "name": "Pet Planet",
+      "link": "https://www.yelp.ca/biz/pet-planet-sylvan-lake"
+    },
+    {
+      "name": "Dirty Dog Groomers",
+      "link": "https://www.yelp.ca/biz/dirty-dog-groomers-red-deer"
+    }
+  ],
+  "petHotelInfo": {
+    "summary": "For many people, their pets are a part of the family. Some travelers wouldn’t dare to leave home without bringing their four-legged friend along. As a result, more hotels across the country are becoming pet-friendly.",
+    "link": "https://blog.typsy.com/important-considerations-for-implementing-a-hotel-pet-policy#:~:text=Some%20common%20hotel%20pet%20policies%20include%20the%20following,4%20They%20must%20comply%20with%20local%20legislation%20requirements"
+  },
+  "petDayCamp": {
+    "outdoorPlayArea": "Utilize lightweight, durable fencing panels that can be easily connected and disconnected. Include portable agility equipment like tunnels, hurdles, and weave poles. Provide shade options such as collapsible canopies or pop-up tents.",
+    "indoorActivityZone": "Set up modular play structures like tunnels, ramps, and climbing platforms. Include interactive toys and puzzles for mental stimulation. Allocate a designated space for quieter activities like pet grooming or training sessions.",
+    "restingArea": "Arrange foldable crates or soft beds for pets to relax. Ensure proper ventilation and comfortable bedding materials. Designate a quiet corner away from the hustle and bustle of the camp activities."
+  }
+}

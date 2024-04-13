@@ -1,0 +1,118 @@
+
+  body {
+    background-image: url('https://th.bing.com/th/id/OIP.fyZMY100ZoNwylp0MrNeygAAAA?rs=1&pid=ImgDetMain'); /* Add background image for body */
+    background-size: cover;
+    background-position: center;
+    color: blue; /* Default text color */
+	
+}
+h3 {
+  color: blue;
+  font-weight: bold;
+}
+header {
+    background-color: lightblue;
+    color: blue;
+    text-align: center;
+    padding: 20px 0;
+}
+footer {
+    background-color: lightblue;
+    color: #333;
+    text-align: center;
+    padding: 20px 0;
+}
+nav  {
+    background-color: gray; /* Different color for navigation */
+    padding: 10px;
+    text-align: center;
+}
+@media only screen and (max-width: 600px) {
+    .container {
+        padding: 10px;
+    }
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+.collapsible {
+            background-color: #f1f1f1;
+            cursor: pointer;
+            padding: 18px;
+            width: 100%;
+            border: none;
+            text-align: left;
+            outline: none;
+            font-size: 18px;
+        }
+
+        .active, .collapsible:hover {
+            background-color: #ccc;
+        }
+
+        .content {
+            padding: 0 18px;
+            display: none;
+            overflow: hidden;
+            background-color: #f1f1f1;
+        }
+/* CSS Styles for Grooming Grid */
+.grooming-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+}
+
+.grooming-service {
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  color: #fff;
+}
+
+/* Styling odd-numbered grooming services */
+.odd {
+  background-color: #4CAF50;
+}
+
+/* Styling even-numbered grooming services */
+.even {
+  background-color: #2196F3;
+}
+
+/* Collapsible Content Styling */
+.collapsible {
+  margin-top: 20px;
+}
+
+.collapsible summary {
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.collapsible p {
+  margin-top: 0;
+}
+
+
+.collapsible {
+    background-color: #f8f8f8; /* Background color for Pets Hotel section */
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+  }
+
+ 
+  .collapsible p {
+    /* Styling for the paragraph content under Pets Hotel */
+    font-size: 20px; /* Setting font size */
+    color: orange; /* Setting text color */
+  }
